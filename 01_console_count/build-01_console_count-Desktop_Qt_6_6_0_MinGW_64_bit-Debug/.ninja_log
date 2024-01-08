@@ -1,0 +1,15 @@
+# ninja log v5
+4	2717	7194084880591370	01_console_count_autogen/timestamp	9e2f1bae9525ba4e
+4	2717	7194084880591370	01_console_count_autogen/mocs_compilation.cpp	9e2f1bae9525ba4e
+4	2717	7194084880591370	C:/projects/cpp/cos3711/2023/assignment_02_memo/01_console_count/build-01_console_count-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/01_console_count_autogen/timestamp	9e2f1bae9525ba4e
+4	2717	7194084880591370	C:/projects/cpp/cos3711/2023/assignment_02_memo/01_console_count/build-01_console_count-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/01_console_count_autogen/mocs_compilation.cpp	9e2f1bae9525ba4e
+2718	3697	7194084892248010	CMakeFiles/01_console_count.dir/01_console_count_autogen/mocs_compilation.cpp.obj	d29c7d14491ec6dd
+2741	7717	7194084932358675	CMakeFiles/01_console_count.dir/main.cpp.obj	6511b082347f52fb
+2771	8061	7194084935807246	CMakeFiles/01_console_count.dir/consolecount.cpp.obj	36a94d134826abe3
+8063	10970	7194084964821341	01_console_count.exe	4f156e5cb59b257f
+10	256	7194086002015129	01_console_count_autogen/timestamp	9e2f1bae9525ba4e
+10	256	7194086002015129	01_console_count_autogen/mocs_compilation.cpp	9e2f1bae9525ba4e
+10	256	7194086002015129	C:/projects/cpp/cos3711/2023/assignment_02_memo/01_console_count/build-01_console_count-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/01_console_count_autogen/timestamp	9e2f1bae9525ba4e
+10	256	7194086002015129	C:/projects/cpp/cos3711/2023/assignment_02_memo/01_console_count/build-01_console_count-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/01_console_count_autogen/mocs_compilation.cpp	9e2f1bae9525ba4e
+265	6044	7194086059398894	CMakeFiles/01_console_count.dir/main.cpp.obj	6511b082347f52fb
+6046	7252	7194086071674823	01_console_count.exe	4f156e5cb59b257f
